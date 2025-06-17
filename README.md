@@ -1,2 +1,4 @@
 # TreinoCurso
 Repositório Treino
+
+REPOSITÓRIO TREINO, FEITO DURANTE CURSO
