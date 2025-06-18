@@ -3,8 +3,8 @@ Repositório Treino
 
 **Lista De Metas:**
 
-- [ ] Terminar o curso de Git e GitHub 
+- [ ] **_Terminar o curso de Git e GitHub_** 
 
-- [ ] Começar a fazer o curos de html e css
+- [ ] **_Começar a fazer o curos de html e css**_
 
-- [ ] Dar inicio em um curso de linguagem de programação
+- [ ] **_Dar inicio em um curso de linguagem de programação**_
