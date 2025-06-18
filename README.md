@@ -11,4 +11,4 @@ Repositório Treino
 
 ## Lista de Metas Futuras:
 
-- *_Começar a Faculdade de Engenharia de Software_*
+-  **_Começar a Faculdade de Engenharia de Software_**
