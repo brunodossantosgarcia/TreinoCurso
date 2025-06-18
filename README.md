@@ -10,5 +10,6 @@ Repositório Treino
 - [ ] **_Dar inicio em um curso de linguagem de programação_**
 
 ## Lista de Metas Futuras:
+***
 
 -  **_Começar a Faculdade de Engenharia de Software_**
