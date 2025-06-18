@@ -1,7 +1,7 @@
 # TreinoCurso
 Repositório Treino
 
-**Lista De Metas:**
+#**Lista De Metas:**
 
 - [ ] **_Terminar o curso de Git e GitHub_** 
 
