@@ -3,7 +3,7 @@ Repositório Treino
 
 # Lista De Metas Atuais:
 ***
-- [ X ] **_Terminar o curso de Git e GitHub_** 
+- [x] **_Terminar o curso de Git e GitHub_** 
 
 - [ ] **_Começar a fazer o curso de html e css_**
 
